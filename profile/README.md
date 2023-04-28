@@ -51,3 +51,4 @@ Soheil_p007@appleplus.io
 
 DNABOOKOFFICIAL Projet 2020-2023 منتشر شده تحت مجوز MIT License 
 
+با حفظ حریم خصوصی کاربران و تامین امنیت بینهایت
